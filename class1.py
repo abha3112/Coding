@@ -9,5 +9,5 @@ class Student:
 s1 = Student('Mayur', 30)
 s1.display()
 s3 = Student('Ankush', 28)
-s2.display()
+s3.display()
    
